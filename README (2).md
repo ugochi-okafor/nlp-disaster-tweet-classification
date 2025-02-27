@@ -59,7 +59,7 @@ Model performance is evaluated using classification metrics:
 The best-performing model is selected based on evaluation metrics, with insights on misclassified tweets.
 
 ## Contributors
-- [Your Name]
+- [Shalom Omotowa]
 
 ## License
 This project is licensed under the MIT License.
